@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Andre, I am from the University of Technology Sydeny taking a Bachelor of Engineering.
+My name is Andre, I am from the University of Technology Sydney taking a Bachelor of Engineering.
 
 
 <!--
